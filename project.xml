@@ -1,0 +1,5 @@
+<project>
+    <app main="Main" path="Export" file="Zygame3D"/>
+    <haxelib name="zygameui"/>>
+    <haxelib name="zygameui-3d"/>>
+</project>
